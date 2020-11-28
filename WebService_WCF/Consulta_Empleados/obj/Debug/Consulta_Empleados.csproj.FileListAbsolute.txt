@@ -1,0 +1,10 @@
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Consulta_Empleados\bin\Debug\Consulta_Empleados.exe
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Consulta_Empleados\bin\Debug\Consulta_Empleados.pdb
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Consulta_Empleados\obj\Debug\Consulta_Empleados.csprojAssemblyReference.cache
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Consulta_Empleados\obj\Debug\Consulta_Empleados.Form1.resources
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Consulta_Empleados\obj\Debug\Consulta_Empleados.Properties.Resources.resources
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Consulta_Empleados\obj\Debug\Consulta_Empleados.csproj.GenerateResource.cache
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Consulta_Empleados\obj\Debug\Consulta_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Consulta_Empleados\obj\Debug\Consulta_Empleados.exe
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Consulta_Empleados\obj\Debug\Consulta_Empleados.pdb
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Consulta_Empleados\bin\Debug\Consulta_Empleados.exe.config

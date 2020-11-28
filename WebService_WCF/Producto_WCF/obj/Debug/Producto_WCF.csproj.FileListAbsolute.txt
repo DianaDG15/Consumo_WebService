@@ -1,0 +1,10 @@
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Producto_WCF\bin\Debug\Producto_WCF.exe.config
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Producto_WCF\bin\Debug\Producto_WCF.exe
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Producto_WCF\bin\Debug\Producto_WCF.pdb
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Producto_WCF\obj\Debug\Producto_WCF.csprojAssemblyReference.cache
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Producto_WCF\obj\Debug\Producto_WCF.Form1.resources
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Producto_WCF\obj\Debug\Producto_WCF.Properties.Resources.resources
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Producto_WCF\obj\Debug\Producto_WCF.csproj.GenerateResource.cache
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Producto_WCF\obj\Debug\Producto_WCF.csproj.CoreCompileInputs.cache
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Producto_WCF\obj\Debug\Producto_WCF.exe
+C:\Users\diave\Desktop\TAREAS\WebService_WCF\Producto_WCF\obj\Debug\Producto_WCF.pdb
